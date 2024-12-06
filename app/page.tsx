@@ -1,6 +1,3 @@
-
 export default function Home() {
-  return (
-   <p className=" text-blue-600">hello </p>
-  );
+  return <main>hello world</main>;
 }
